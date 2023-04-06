@@ -1,0 +1,9 @@
+body {
+    font-family: 'Jost', sans-serif;
+}
+
+canvas {
+    border-style: dotted;
+    border-color: orangered;
+    border-width: 3px;
+}
